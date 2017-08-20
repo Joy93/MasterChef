@@ -1,9 +1,13 @@
 # masterchef
 
 > A Vue.js project
-> Process Update: Main Page; Manage groceries with Firebase;
-> Next Step: Revising item info; Auth(Login/Logout); Recipe Search
-
+## Process Update
+Main Page; 
+Manage groceries with Firebase;
+## Next Step
+Revising item info; 
+Auth(Login/Logout); 
+Recipe Search
 ## Build Setup
 
 ``` bash
